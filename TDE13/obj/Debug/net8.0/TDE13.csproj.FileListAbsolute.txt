@@ -1,0 +1,14 @@
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\bin\Debug\net8.0\TDE13.exe
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\bin\Debug\net8.0\TDE13.deps.json
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\bin\Debug\net8.0\TDE13.runtimeconfig.json
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\bin\Debug\net8.0\TDE13.dll
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\bin\Debug\net8.0\TDE13.pdb
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\obj\Debug\net8.0\TDE13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\obj\Debug\net8.0\TDE13.AssemblyInfoInputs.cache
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\obj\Debug\net8.0\TDE13.AssemblyInfo.cs
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\obj\Debug\net8.0\TDE13.csproj.CoreCompileInputs.cache
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\obj\Debug\net8.0\TDE13.dll
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\obj\Debug\net8.0\refint\TDE13.dll
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\obj\Debug\net8.0\TDE13.pdb
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\obj\Debug\net8.0\TDE13.genruntimeconfig.cache
+C:\Users\leole\Desktop\ulbra\Lab Prog\aulaDia30\TDE13\obj\Debug\net8.0\ref\TDE13.dll
